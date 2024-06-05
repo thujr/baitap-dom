@@ -1,0 +1,11 @@
+#text {
+    border-radius: 25px;
+    padding: 5px 0px;
+  }
+  button {
+    background-color: forestgreen;
+    color: black;
+    border-radius: 10px;
+    padding: 5px 20px;
+    cursor: pointer;
+  }
